@@ -7,7 +7,6 @@
 Interesada en el desarrollo backend, la arquitectura de software y el desarrollo de aplicaciones web y educativas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisa-martinez-lafuente)
-[![Email](https://img.shields.io/badge/Contacto-Email-EA4335?logo=gmail&logoColor=white)](eli.marlaf05@gmail.com)
 
 </div>
 
